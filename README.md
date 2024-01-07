@@ -6,10 +6,26 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
 - 🌱 Právě se učím: **Web development**, **Moderní JavaScript Frameworky**
 
 ## Dovednosti
-| ![PHP icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![JavaScript icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![jQuery icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) | ![HTML icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Laravel icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| PHP | JavaScript | jQuery | HTML | CSS | React | Laravel |
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React icon" width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel icon" width="30" height="30"></td>
+  </tr>
+  <tr align="center">
+    <td>PHP</td>
+    <td>JavaScript</td>
+    <td>jQuery</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>React</td>
+    <td>Laravel</td>
+  </tr>
+</table>
 
 ## Projekty
 ### Projekt 1
