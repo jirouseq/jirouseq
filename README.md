@@ -15,6 +15,4 @@ I am a junior in **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS** and I'm
 | **Laravel** | **React** |
 
 ## Kontakt:
-- LinkedIn: [Odkaz na váš LinkedIn profil](odkaz)
-- Email: vášemail@example.com
-- Twitter: [Odkaz na váš Twitter profil](odkaz)
+- Email: giorgio.programming@gmail.com
