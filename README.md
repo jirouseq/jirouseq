@@ -1,9 +1,7 @@
 # Hi I am Jirouseq! 👋
 
 ## About me:
-Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a momentálně se učím **React** a **Laravel**.
-
-- 🌱 Právě se učím: **Web development**, **Moderní JavaScript Frameworky**
+I am a junior in **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a momentálně se učím **React** a **Laravel**.
 
 ## Skils:
 | ![PHP icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![JavaScript icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![jQuery icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) | ![HTML icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
