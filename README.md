@@ -8,6 +8,15 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
 ## Dovednosti
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,php,html,css)](https://skillicons.dev)
 
+- **PHP** ![PHP icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+- **JavaScript** ![JavaScript icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- **jQuery** ![jQuery icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg)
+- **HTML** ![HTML icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+- **CSS** ![CSS icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+- **React** ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+- **Laravel** ![Laravel icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg)
+
+
 ## Projekty
 ### Projekt 1
 Popis projektu a jeho významných funkcí.
