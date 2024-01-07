@@ -6,13 +6,7 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
 - 🌱 Právě se učím: **Web development**, **Moderní JavaScript Frameworky**
 
 ## Dovednosti
-- **PHP** ![PHP icon](https://skillicons.dev/55x55/php.svg)
-- **JavaScript** ![JavaScript icon](https://skillicons.dev/55x55/js.svg)
-- **jQuery** ![jQuery icon](https://skillicons.dev/55x55/jquery.svg)
-- **HTML** ![HTML icon](https://skillicons.dev/55x55/html.svg)
-- **CSS** ![CSS icon](https://skillicons.dev/55x55/css.svg)
-- **React** ![React icon](https://skillicons.dev/55x55/react.svg)
-- **Laravel** ![Laravel icon](https://skillicons.dev/55x55/laravel.svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Projekty
 ### Projekt 1
