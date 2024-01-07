@@ -8,7 +8,7 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
 ## Dovednosti
 | ![PHP icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![JavaScript icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![jQuery icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) | ![HTML icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Laravel icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **PHP** | **JavaScript** | **jQuery** | **HTML** | **CSS** | **React** | **Laravel** |
+| PHP | JavaScript | jQuery | HTML | CSS | React | Laravel |
 
 
 ## Projekty
