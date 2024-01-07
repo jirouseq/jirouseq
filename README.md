@@ -1,11 +1,11 @@
-# Ahoj, jsem [Vaše Jméno]! 👋
+<h1>Ahoj, jsem [Vaše Jméno]! 👋</h1>
 
-## O mně
-Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a momentálně se učím **React** a **Laravel**.
+<h2>O mně</h2>
+<p>Jsem junior v oblasti <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>HTML</strong> a <strong>CSS</strong>, a momentálně se učím <strong>React</strong> a <strong>Laravel</strong>.</p>
 
-- 🌱 Právě se učím: **Web development**, **Moderní JavaScript Frameworky**
+<p>🌱 Právě se učím: <strong>Web development</strong>, <strong>Moderní JavaScript Frameworky</strong></p>
 
-## Dovednosti
+<h2>Dovednosti</h2>
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP icon" width="30" height="30"></td>
@@ -27,18 +27,19 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
   </tr>
 </table>
 
-## Projekty
-### Projekt 1
-Popis projektu a jeho významných funkcí.
+<h2>Projekty</h2>
+<h3>Projekt 1</h3>
+<p>Popis projektu a jeho významných funkcí.</p>
 
-### Projekt 2
-Další projekt, který jsem nedávno dokončil nebo na kterém pracuji.
+<h3>Projekt 2</h3>
+<p>Další projekt, který jsem nedávno dokončil nebo na kterém pracuji.</p>
 
-## Kontakt
-- LinkedIn: [Odkaz na váš LinkedIn profil](odkaz)
-- Email: vášemail@example.com
-- Twitter: [Odkaz na váš Twitter profil](odkaz)
+<h2>Kontakt</h2>
+<ul>
+  <li>LinkedIn: <a href="odkaz">Odkaz na váš LinkedIn profil</a></li>
+  <li>Email: vášemail@example.com</li>
+  <li>Twitter: <a href="odkaz">Odkaz na váš Twitter profil</a></li>
+</ul>
 
-## Statistiky
-![GitHub statistiky](https://github-readme-stats.vercel.app/api?username=vašeGithubUživatelskéJméno&show_icons=true)
-
+<h2>Statistiky</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=vašeGithubUživatelskéJméno&show_icons=true" alt="GitHub statistiky">
