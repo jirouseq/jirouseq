@@ -15,6 +15,11 @@ Jsem junior v oblasti **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS**, a
 - **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React icon" width="30" height="30">
 - **Laravel** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel icon" width="30" height="30">
 
+| ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Laravel icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) |
+|:---:|:---:|
+| **React** | **Laravel** |
+
+
 
 ## Projekty
 ### Projekt 1
