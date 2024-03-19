@@ -10,9 +10,9 @@ I am a junior in **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS** and I'm
 
 
 ## I'm learning:
-| ![Laravel icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) | ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
+| ![Symfony icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg) | ![React icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
 |:---:|:---:|
-| **Laravel** | **React** |
+| **Symfony** | **React** |
 
 ## Kontakt:
 - Email: giorgio.programming@gmail.com
