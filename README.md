@@ -1,4 +1,4 @@
-# Hi I am Giorgio! 👋
+# Hi, I'm Jirouseq! 👋
 
 ## About me:
 I am a junior in **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS** and I'm from the Czech Republic.
