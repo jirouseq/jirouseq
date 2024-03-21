@@ -15,4 +15,4 @@ I am a junior in **PHP**, **JavaScript**, **jQuery**, **HTML** a **CSS** and I'm
 | **Symfony** | **React** |
 
 ## Kontakt:
-- Email: giorgio.programming@gmail.com
+- Email: jirouseq@gmail.com
